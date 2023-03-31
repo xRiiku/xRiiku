@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Daniel Ramon 'RikuDev' <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=New+Roman&size=25&pause=1000&color=F7E61D&center=true&vCenter=true&width=600&height=100&lines=Daniel+Ramon+'Rikudev'" alt="Typing SVG" /></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=New+Roman&size=25&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer;Active+learner;Love+to+learn+new+stuff" alt="Typing SVG" /></a>
