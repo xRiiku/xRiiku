@@ -44,7 +44,7 @@
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Hostinger](https://img.shields.io/badge/Hostalia-%23E34F26.svg?style=for-the-badge&logo=hostalia&logoColor=white)
+    ![Hostinger](https://img.shields.io/badge/Hostinger-%db99e5.svg?style=for-the-badge&logo=hostinger&logoColor=white)
     
 <br>
 
