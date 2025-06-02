@@ -72,15 +72,15 @@
 ## 🤝 Let's Connect!
 
 <div align="left">
-  <a href="https://linkedin.com/in/daniel-ramón-campos-0ab4b4254/" target="_blank">
+  <a href="[https://linkedin.com/in/daniel-ramón-campos-0ab4b4254/](https://www.linkedin.com/in/danielramoncampos/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://twitter.com/Riku0h" target="_blank">
+  <a href="[https://twitter.com/xrikudev](https://x.com/xRikuDev)" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 
-  <a href="mailto:riku@rikudev.com" target="_blank">
+  <a href="mailto:drc89.sxm@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
