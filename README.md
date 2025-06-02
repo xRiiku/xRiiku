@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Daniel Ramón Campos aka "Rikudev" 👋</b></h1>
+<h1 align="center"><b>Hi, I'm Daniel Ramón Campos 👋</b></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -13,7 +13,6 @@
 <picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 - 🎓 Web Developer specialized in **Angular + TypeScript**
-- 💼 Currently doing **Frontend Development Internship** at a digital solutions company
 - ⚡ Passionate about **clean code**, scalable architectures, and great user experiences
 - 🌱 Continuously learning **Fullstack**, focusing on **Node.js**, **PostgreSQL**, and **Cloud Hosting**
 - 🔍 Actively looking for **job opportunities** in Frontend or Fullstack Development
@@ -25,6 +24,7 @@
 ### 🚀 Front-End
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React]([https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge))
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
